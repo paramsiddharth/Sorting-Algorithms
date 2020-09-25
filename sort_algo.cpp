@@ -1,6 +1,5 @@
 #include <iostream>
 #include "array_ops"
-using namespace std;
 
 // Dummy file for implementing algorithms
 
