@@ -1,6 +1,8 @@
 #ifndef ARRAP_OPS
 #define ARRAP_OPS
 
+// Simple operations to be used for array-handling
+
 #include <iostream>
 
 void readArray(int** array, int* size) {
