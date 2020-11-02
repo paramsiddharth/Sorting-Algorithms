@@ -37,9 +37,7 @@ void sortAndMerge(int* array, int low, int high) {
 	}
 }
 
-void mergeSort(int* array, int size) {
-	sortAndMerge(array, 0, size - 1);
-}
+void mergeSort(int* array, int size) { sortAndMerge(array, 0, size - 1); }
 
 int main() {
 	demonstrate(mergeSort, "Merge Sort");
